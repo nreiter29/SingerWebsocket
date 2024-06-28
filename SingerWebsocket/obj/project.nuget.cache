@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "15BUWGoMJFqxP0a+VdMJu4VumQL8J0iK9G9d+cevmljSPt6lANQXdohm3LXfucZTlFmzacnISgmZo6J4+QFnjg==",
+  "success": true,
+  "projectFilePath": "/Users/noah/RiderProjects/SingerWebsocket/SingerWebsocket/SingerWebsocket.csproj",
+  "expectedPackageFiles": [
+    "/Users/noah/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/noah/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/noah/.nuget/packages/microsoft.io.recyclablememorystream/3.0.0/microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "/Users/noah/.nuget/packages/system.reactive/6.0.0/system.reactive.6.0.0.nupkg.sha512",
+    "/Users/noah/.nuget/packages/system.threading.channels/8.0.0/system.threading.channels.8.0.0.nupkg.sha512",
+    "/Users/noah/.nuget/packages/websocket.client/5.1.2/websocket.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
